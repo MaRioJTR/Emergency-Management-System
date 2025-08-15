@@ -58,14 +58,3 @@ This project is an **Emergency Management System** implemented in C++ with a gra
 - **Visualization**:
   - Priority values are reversed only in the visualizer for clarity.
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-- Qt Framework for GUI development.
-- CLion IDE for providing a robust development environment.
